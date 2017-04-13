@@ -4,6 +4,8 @@ This provides DTL language support for Visual Studio Code
 
 ## Features
 
+- Syntax Highlighting
+
 ![ job dtl example ](https://raw.githubusercontent.com/nsotgui/vscode-dtl/master/images/job_dtl_example.png)
 
 ## Feedback
