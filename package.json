@@ -1,0 +1,26 @@
+{
+    "name": "dtl",
+    "displayName": "Language support for DTL for Visual Studio Code",
+    "description": "Language support for DTL for Visual Studio Code",
+    "version": "0.1.0",
+    "publisher": "nsotgui",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "dtl",
+            "aliases": ["Syncsort DTL", "DTL", "Data Transformation Language"],
+            "extensions": [".dtl",".dxt",".dxj"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "dtl",
+            "scopeName": "source.dtl",
+            "path": "./syntaxes/dtl.tmLanguage.json"
+        }]
+    }
+}
