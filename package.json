@@ -3,7 +3,7 @@
     "displayName": "Language support for DTL for Visual Studio Code",
     "description": "Language support for DTL for Visual Studio Code",
     "version": "0.1.0",
-    "publisher": "nsotgui",
+    "publisher": "syncsort",
     "icon": "images/icon.png",
     "author": {
         "name": "Nicolas Sotgui"
