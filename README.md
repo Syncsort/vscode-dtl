@@ -1,3 +1,5 @@
+[![Marketplace Version](http://vsmarketplacebadge.apphb.com/version/syncsort.dtl.svg "Current Release")](https://marketplace.visualstudio.com/items?itemName=syncsort.dtl)
+
 # Language support for DTL for Visual Studio Code
 
 This provides DTL language support for Visual Studio Code
