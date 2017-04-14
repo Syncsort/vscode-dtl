@@ -4,6 +4,14 @@
     "description": "Language support for DTL for Visual Studio Code",
     "version": "0.1.0",
     "publisher": "nsotgui",
+    "icon": "images/icon.png",
+    "author": {
+        "name": "Nicolas Sotgui"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nsotgui/vscode-dtl.git"
+    },
     "engines": {
         "vscode": "^1.10.0"
     },
